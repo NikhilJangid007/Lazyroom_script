@@ -1,5 +1,5 @@
 {
-    "css": "https://rawgit.com/NikhilJangid007/Lazyroom_script/master/room.css",
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -19,7 +19,7 @@
         "user": "#8B92A3"
     },
     "images": {
-        "background": null,
+        "background": "http://i.imgur.com/tOEACrk.png",
         "playback": null,
         "admin": "https://code.radiant.mu/require/icons/radiant/admin.png",
         "ambassador": "https://code.radiant.mu/require/icons/radiant/ambassador.png",

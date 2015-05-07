@@ -1,3 +1,7 @@
+<?php 
+header('Access-Control-Allow-Origin: https://plug.dj'); 
+header('Content-Type: text/json'); 
+
 {
     "css": null,
     "rules": {
@@ -31,3 +35,4 @@
         "subscriber": "https://code.radiant.mu/require/icons/radiant/subscriber.png"
     }
 }
+?>
